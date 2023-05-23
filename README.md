@@ -1,2 +1,2 @@
 # FedHQL
-Project page for paper FedHQL: Federated Heterogeneous Q-Learning, AAMAS 2023 (extended abstract)
+Project page (under construction) for paper FedHQL: Federated Heterogeneous Q-Learning (AAMAS 2023)
